@@ -7,3 +7,4 @@
 ## Implementation
 - ch03 gRPC四种通信模式的实现[[Go]](ch03/README.md)
 - ch05 gRPC各种特性的实现[[Go]](ch05/README.md)
+- ch06 gRPC安全相关
