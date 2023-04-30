@@ -1,6 +1,9 @@
 *.sum
 *.mod
 *.work
+
+
 *.key
 *.crt
 *.pem
+*.csr
